@@ -1,1 +1,2 @@
 
+![Screencast GIF](screencast.gif)
